@@ -553,11 +553,11 @@
         "yaml-v0_9_1": "yaml-v0_9_1"
       },
       "locked": {
-        "lastModified": 1647053952,
-        "narHash": "sha256-q+Um62B+TtWkNF3dJAXIUrBMTVFVckwyzw2DMb9yz8c=",
+        "lastModified": 1647111661,
+        "narHash": "sha256-6soQXO5uv5Cm2hoilgc7PrryrRalkg0Uv/ELBgAaM50=",
         "owner": "nim-nix-pkgs",
         "repo": "yaml",
-        "rev": "c26e6e4f60f6db9fab2f11a2649d35e47121a22c",
+        "rev": "58dfd8afa8b417bd45ad0d5bced3f365e09fe425",
         "type": "github"
       },
       "original": {
@@ -580,13 +580,20 @@
         "src-yaml-master": "src-yaml-master"
       },
       "locked": {
-        "narHash": "sha256-dN503IA9yHZHKgyeWaHh+2w2Ag1Rl5NpJnDzbb+qPxo=",
-        "path": "./master",
-        "type": "path"
+        "dir": "master",
+        "lastModified": 1647111661,
+        "narHash": "sha256-6soQXO5uv5Cm2hoilgc7PrryrRalkg0Uv/ELBgAaM50=",
+        "owner": "nim-nix-pkgs",
+        "repo": "yaml",
+        "rev": "58dfd8afa8b417bd45ad0d5bced3f365e09fe425",
+        "type": "github"
       },
       "original": {
-        "path": "./master",
-        "type": "path"
+        "dir": "master",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "yaml",
+        "type": "github"
       }
     },
     "yaml-v0_10_0": {
@@ -602,13 +609,20 @@
         "src-yaml-v0_10_0": "src-yaml-v0_10_0"
       },
       "locked": {
-        "narHash": "sha256-bpGR7+1/ZpUxU6IImjvCFrqWCCvl7VatrAkWxmk05RI=",
-        "path": "./v0_10_0",
-        "type": "path"
+        "dir": "v0_10_0",
+        "lastModified": 1647111661,
+        "narHash": "sha256-6soQXO5uv5Cm2hoilgc7PrryrRalkg0Uv/ELBgAaM50=",
+        "owner": "nim-nix-pkgs",
+        "repo": "yaml",
+        "rev": "58dfd8afa8b417bd45ad0d5bced3f365e09fe425",
+        "type": "github"
       },
       "original": {
-        "path": "./v0_10_0",
-        "type": "path"
+        "dir": "v0_10_0",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "yaml",
+        "type": "github"
       }
     },
     "yaml-v0_10_1": {
@@ -624,13 +638,20 @@
         "src-yaml-v0_10_1": "src-yaml-v0_10_1"
       },
       "locked": {
-        "narHash": "sha256-V5hNScmOCS27zdtLazil+XeaTBH2CseMWX8QjcGbxNw=",
-        "path": "./v0_10_1",
-        "type": "path"
+        "dir": "v0_10_1",
+        "lastModified": 1647111661,
+        "narHash": "sha256-6soQXO5uv5Cm2hoilgc7PrryrRalkg0Uv/ELBgAaM50=",
+        "owner": "nim-nix-pkgs",
+        "repo": "yaml",
+        "rev": "58dfd8afa8b417bd45ad0d5bced3f365e09fe425",
+        "type": "github"
       },
       "original": {
-        "path": "./v0_10_1",
-        "type": "path"
+        "dir": "v0_10_1",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "yaml",
+        "type": "github"
       }
     },
     "yaml-v0_10_2": {
@@ -646,13 +667,20 @@
         "src-yaml-v0_10_2": "src-yaml-v0_10_2"
       },
       "locked": {
-        "narHash": "sha256-xgIeb2jq4jjSH3T/R03BGzMe8LOM/irzZzOweh4WJow=",
-        "path": "./v0_10_2",
-        "type": "path"
+        "dir": "v0_10_2",
+        "lastModified": 1647111661,
+        "narHash": "sha256-6soQXO5uv5Cm2hoilgc7PrryrRalkg0Uv/ELBgAaM50=",
+        "owner": "nim-nix-pkgs",
+        "repo": "yaml",
+        "rev": "58dfd8afa8b417bd45ad0d5bced3f365e09fe425",
+        "type": "github"
       },
       "original": {
-        "path": "./v0_10_2",
-        "type": "path"
+        "dir": "v0_10_2",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "yaml",
+        "type": "github"
       }
     },
     "yaml-v0_10_3": {
@@ -668,13 +696,20 @@
         "src-yaml-v0_10_3": "src-yaml-v0_10_3"
       },
       "locked": {
-        "narHash": "sha256-fG+KMgRz6UEa8MIA8vlxdPXphVPqlyKsJho2sUTJYMY=",
-        "path": "./v0_10_3",
-        "type": "path"
+        "dir": "v0_10_3",
+        "lastModified": 1647111661,
+        "narHash": "sha256-6soQXO5uv5Cm2hoilgc7PrryrRalkg0Uv/ELBgAaM50=",
+        "owner": "nim-nix-pkgs",
+        "repo": "yaml",
+        "rev": "58dfd8afa8b417bd45ad0d5bced3f365e09fe425",
+        "type": "github"
       },
       "original": {
-        "path": "./v0_10_3",
-        "type": "path"
+        "dir": "v0_10_3",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "yaml",
+        "type": "github"
       }
     },
     "yaml-v0_10_4": {
@@ -690,13 +725,20 @@
         "src-yaml-v0_10_4": "src-yaml-v0_10_4"
       },
       "locked": {
-        "narHash": "sha256-KMYkLf2jyXKScYr3cqPvJ6xcuo5ExInoZyDfkUkEXQA=",
-        "path": "./v0_10_4",
-        "type": "path"
+        "dir": "v0_10_4",
+        "lastModified": 1647111661,
+        "narHash": "sha256-6soQXO5uv5Cm2hoilgc7PrryrRalkg0Uv/ELBgAaM50=",
+        "owner": "nim-nix-pkgs",
+        "repo": "yaml",
+        "rev": "58dfd8afa8b417bd45ad0d5bced3f365e09fe425",
+        "type": "github"
       },
       "original": {
-        "path": "./v0_10_4",
-        "type": "path"
+        "dir": "v0_10_4",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "yaml",
+        "type": "github"
       }
     },
     "yaml-v0_11_0": {
@@ -712,13 +754,20 @@
         "src-yaml-v0_11_0": "src-yaml-v0_11_0"
       },
       "locked": {
-        "narHash": "sha256-c0soPLgEWpquDykr6ukrkX57AIlv0iupyweqOd9ovEc=",
-        "path": "./v0_11_0",
-        "type": "path"
+        "dir": "v0_11_0",
+        "lastModified": 1647111661,
+        "narHash": "sha256-6soQXO5uv5Cm2hoilgc7PrryrRalkg0Uv/ELBgAaM50=",
+        "owner": "nim-nix-pkgs",
+        "repo": "yaml",
+        "rev": "58dfd8afa8b417bd45ad0d5bced3f365e09fe425",
+        "type": "github"
       },
       "original": {
-        "path": "./v0_11_0",
-        "type": "path"
+        "dir": "v0_11_0",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "yaml",
+        "type": "github"
       }
     },
     "yaml-v0_12_0": {
@@ -734,13 +783,20 @@
         "src-yaml-v0_12_0": "src-yaml-v0_12_0"
       },
       "locked": {
-        "narHash": "sha256-NUh0F0st6Zalf9bFdnvNRvr8YOuumED/gc/gbM/AcjI=",
-        "path": "./v0_12_0",
-        "type": "path"
+        "dir": "v0_12_0",
+        "lastModified": 1647111661,
+        "narHash": "sha256-6soQXO5uv5Cm2hoilgc7PrryrRalkg0Uv/ELBgAaM50=",
+        "owner": "nim-nix-pkgs",
+        "repo": "yaml",
+        "rev": "58dfd8afa8b417bd45ad0d5bced3f365e09fe425",
+        "type": "github"
       },
       "original": {
-        "path": "./v0_12_0",
-        "type": "path"
+        "dir": "v0_12_0",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "yaml",
+        "type": "github"
       }
     },
     "yaml-v0_13_0": {
@@ -756,13 +812,20 @@
         "src-yaml-v0_13_0": "src-yaml-v0_13_0"
       },
       "locked": {
-        "narHash": "sha256-f74+SzS0lM5hMZ1EeWLTmSdX3YIhaQBLshNznJjTQY4=",
-        "path": "./v0_13_0",
-        "type": "path"
+        "dir": "v0_13_0",
+        "lastModified": 1647111661,
+        "narHash": "sha256-6soQXO5uv5Cm2hoilgc7PrryrRalkg0Uv/ELBgAaM50=",
+        "owner": "nim-nix-pkgs",
+        "repo": "yaml",
+        "rev": "58dfd8afa8b417bd45ad0d5bced3f365e09fe425",
+        "type": "github"
       },
       "original": {
-        "path": "./v0_13_0",
-        "type": "path"
+        "dir": "v0_13_0",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "yaml",
+        "type": "github"
       }
     },
     "yaml-v0_13_1": {
@@ -778,13 +841,20 @@
         "src-yaml-v0_13_1": "src-yaml-v0_13_1"
       },
       "locked": {
-        "narHash": "sha256-44cmzd5uP/h3jEakkN8Cjb03Y50zNVXLDky7Qw1M6aA=",
-        "path": "./v0_13_1",
-        "type": "path"
+        "dir": "v0_13_1",
+        "lastModified": 1647111661,
+        "narHash": "sha256-6soQXO5uv5Cm2hoilgc7PrryrRalkg0Uv/ELBgAaM50=",
+        "owner": "nim-nix-pkgs",
+        "repo": "yaml",
+        "rev": "58dfd8afa8b417bd45ad0d5bced3f365e09fe425",
+        "type": "github"
       },
       "original": {
-        "path": "./v0_13_1",
-        "type": "path"
+        "dir": "v0_13_1",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "yaml",
+        "type": "github"
       }
     },
     "yaml-v0_14_0": {
@@ -800,13 +870,20 @@
         "src-yaml-v0_14_0": "src-yaml-v0_14_0"
       },
       "locked": {
-        "narHash": "sha256-e+YR03nfEPS49kgTNiGsr5CvAsqvTJSEw2iqJyPKFaY=",
-        "path": "./v0_14_0",
-        "type": "path"
+        "dir": "v0_14_0",
+        "lastModified": 1647111661,
+        "narHash": "sha256-6soQXO5uv5Cm2hoilgc7PrryrRalkg0Uv/ELBgAaM50=",
+        "owner": "nim-nix-pkgs",
+        "repo": "yaml",
+        "rev": "58dfd8afa8b417bd45ad0d5bced3f365e09fe425",
+        "type": "github"
       },
       "original": {
-        "path": "./v0_14_0",
-        "type": "path"
+        "dir": "v0_14_0",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "yaml",
+        "type": "github"
       }
     },
     "yaml-v0_15_0": {
@@ -822,13 +899,20 @@
         "src-yaml-v0_15_0": "src-yaml-v0_15_0"
       },
       "locked": {
-        "narHash": "sha256-SSAy17gUeKQ3Hgs9CPpfqpwYQ45uUEG376Txy14GICI=",
-        "path": "./v0_15_0",
-        "type": "path"
+        "dir": "v0_15_0",
+        "lastModified": 1647111661,
+        "narHash": "sha256-6soQXO5uv5Cm2hoilgc7PrryrRalkg0Uv/ELBgAaM50=",
+        "owner": "nim-nix-pkgs",
+        "repo": "yaml",
+        "rev": "58dfd8afa8b417bd45ad0d5bced3f365e09fe425",
+        "type": "github"
       },
       "original": {
-        "path": "./v0_15_0",
-        "type": "path"
+        "dir": "v0_15_0",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "yaml",
+        "type": "github"
       }
     },
     "yaml-v0_16_0": {
@@ -844,13 +928,20 @@
         "src-yaml-v0_16_0": "src-yaml-v0_16_0"
       },
       "locked": {
-        "narHash": "sha256-zqYp5qItehUI0KVUgwm+zQw7Cv659vLfsW3m/vqbhH0=",
-        "path": "./v0_16_0",
-        "type": "path"
+        "dir": "v0_16_0",
+        "lastModified": 1647111661,
+        "narHash": "sha256-6soQXO5uv5Cm2hoilgc7PrryrRalkg0Uv/ELBgAaM50=",
+        "owner": "nim-nix-pkgs",
+        "repo": "yaml",
+        "rev": "58dfd8afa8b417bd45ad0d5bced3f365e09fe425",
+        "type": "github"
       },
       "original": {
-        "path": "./v0_16_0",
-        "type": "path"
+        "dir": "v0_16_0",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "yaml",
+        "type": "github"
       }
     },
     "yaml-v0_1_0": {
@@ -866,13 +957,20 @@
         "src-yaml-v0_1_0": "src-yaml-v0_1_0"
       },
       "locked": {
-        "narHash": "sha256-SjTc8RqCT/LGLoTLbX/ZTtj32H0EOuEEZfAgIPye4xQ=",
-        "path": "./v0_1_0",
-        "type": "path"
+        "dir": "v0_1_0",
+        "lastModified": 1647111661,
+        "narHash": "sha256-6soQXO5uv5Cm2hoilgc7PrryrRalkg0Uv/ELBgAaM50=",
+        "owner": "nim-nix-pkgs",
+        "repo": "yaml",
+        "rev": "58dfd8afa8b417bd45ad0d5bced3f365e09fe425",
+        "type": "github"
       },
       "original": {
-        "path": "./v0_1_0",
-        "type": "path"
+        "dir": "v0_1_0",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "yaml",
+        "type": "github"
       }
     },
     "yaml-v0_2_0": {
@@ -888,13 +986,20 @@
         "src-yaml-v0_2_0": "src-yaml-v0_2_0"
       },
       "locked": {
-        "narHash": "sha256-NwDoPBzn6zeBy7b2YES9vkC1pEy89ZJH4hTRvcq5AuA=",
-        "path": "./v0_2_0",
-        "type": "path"
+        "dir": "v0_2_0",
+        "lastModified": 1647111661,
+        "narHash": "sha256-6soQXO5uv5Cm2hoilgc7PrryrRalkg0Uv/ELBgAaM50=",
+        "owner": "nim-nix-pkgs",
+        "repo": "yaml",
+        "rev": "58dfd8afa8b417bd45ad0d5bced3f365e09fe425",
+        "type": "github"
       },
       "original": {
-        "path": "./v0_2_0",
-        "type": "path"
+        "dir": "v0_2_0",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "yaml",
+        "type": "github"
       }
     },
     "yaml-v0_3_0": {
@@ -910,13 +1015,20 @@
         "src-yaml-v0_3_0": "src-yaml-v0_3_0"
       },
       "locked": {
-        "narHash": "sha256-tZqG7X+DjdWrNzThYcnReok3X2ntG8DszWwQlMAf3K4=",
-        "path": "./v0_3_0",
-        "type": "path"
+        "dir": "v0_3_0",
+        "lastModified": 1647111661,
+        "narHash": "sha256-6soQXO5uv5Cm2hoilgc7PrryrRalkg0Uv/ELBgAaM50=",
+        "owner": "nim-nix-pkgs",
+        "repo": "yaml",
+        "rev": "58dfd8afa8b417bd45ad0d5bced3f365e09fe425",
+        "type": "github"
       },
       "original": {
-        "path": "./v0_3_0",
-        "type": "path"
+        "dir": "v0_3_0",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "yaml",
+        "type": "github"
       }
     },
     "yaml-v0_4_0": {
@@ -932,13 +1044,20 @@
         "src-yaml-v0_4_0": "src-yaml-v0_4_0"
       },
       "locked": {
-        "narHash": "sha256-jN2J4gNd+k3FZLUwQobUvFNriMD0Z+7VDH2Dwi6DmAc=",
-        "path": "./v0_4_0",
-        "type": "path"
+        "dir": "v0_4_0",
+        "lastModified": 1647111661,
+        "narHash": "sha256-6soQXO5uv5Cm2hoilgc7PrryrRalkg0Uv/ELBgAaM50=",
+        "owner": "nim-nix-pkgs",
+        "repo": "yaml",
+        "rev": "58dfd8afa8b417bd45ad0d5bced3f365e09fe425",
+        "type": "github"
       },
       "original": {
-        "path": "./v0_4_0",
-        "type": "path"
+        "dir": "v0_4_0",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "yaml",
+        "type": "github"
       }
     },
     "yaml-v0_5_0": {
@@ -954,13 +1073,20 @@
         "src-yaml-v0_5_0": "src-yaml-v0_5_0"
       },
       "locked": {
-        "narHash": "sha256-9e5WFJx0uVezXpqYvTdBI5GauJQbpa3N+d7lgkWINk0=",
-        "path": "./v0_5_0",
-        "type": "path"
+        "dir": "v0_5_0",
+        "lastModified": 1647111661,
+        "narHash": "sha256-6soQXO5uv5Cm2hoilgc7PrryrRalkg0Uv/ELBgAaM50=",
+        "owner": "nim-nix-pkgs",
+        "repo": "yaml",
+        "rev": "58dfd8afa8b417bd45ad0d5bced3f365e09fe425",
+        "type": "github"
       },
       "original": {
-        "path": "./v0_5_0",
-        "type": "path"
+        "dir": "v0_5_0",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "yaml",
+        "type": "github"
       }
     },
     "yaml-v0_5_1": {
@@ -976,13 +1102,20 @@
         "src-yaml-v0_5_1": "src-yaml-v0_5_1"
       },
       "locked": {
-        "narHash": "sha256-Zzgr1hxUIdYij/2KvtcAubjaJOGj76VyMN1UacSMYy0=",
-        "path": "./v0_5_1",
-        "type": "path"
+        "dir": "v0_5_1",
+        "lastModified": 1647111661,
+        "narHash": "sha256-6soQXO5uv5Cm2hoilgc7PrryrRalkg0Uv/ELBgAaM50=",
+        "owner": "nim-nix-pkgs",
+        "repo": "yaml",
+        "rev": "58dfd8afa8b417bd45ad0d5bced3f365e09fe425",
+        "type": "github"
       },
       "original": {
-        "path": "./v0_5_1",
-        "type": "path"
+        "dir": "v0_5_1",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "yaml",
+        "type": "github"
       }
     },
     "yaml-v0_6_0": {
@@ -998,13 +1131,20 @@
         "src-yaml-v0_6_0": "src-yaml-v0_6_0"
       },
       "locked": {
-        "narHash": "sha256-ncy7AEcoiob/phUC42AMDGToiHNRGe+om7rVOp1811g=",
-        "path": "./v0_6_0",
-        "type": "path"
+        "dir": "v0_6_0",
+        "lastModified": 1647111661,
+        "narHash": "sha256-6soQXO5uv5Cm2hoilgc7PrryrRalkg0Uv/ELBgAaM50=",
+        "owner": "nim-nix-pkgs",
+        "repo": "yaml",
+        "rev": "58dfd8afa8b417bd45ad0d5bced3f365e09fe425",
+        "type": "github"
       },
       "original": {
-        "path": "./v0_6_0",
-        "type": "path"
+        "dir": "v0_6_0",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "yaml",
+        "type": "github"
       }
     },
     "yaml-v0_6_1": {
@@ -1020,13 +1160,20 @@
         "src-yaml-v0_6_1": "src-yaml-v0_6_1"
       },
       "locked": {
-        "narHash": "sha256-1TkO1dZuyxwkUFiGUNdF8u7jfWD7pp0WaxgkHweZwt4=",
-        "path": "./v0_6_1",
-        "type": "path"
+        "dir": "v0_6_1",
+        "lastModified": 1647111661,
+        "narHash": "sha256-6soQXO5uv5Cm2hoilgc7PrryrRalkg0Uv/ELBgAaM50=",
+        "owner": "nim-nix-pkgs",
+        "repo": "yaml",
+        "rev": "58dfd8afa8b417bd45ad0d5bced3f365e09fe425",
+        "type": "github"
       },
       "original": {
-        "path": "./v0_6_1",
-        "type": "path"
+        "dir": "v0_6_1",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "yaml",
+        "type": "github"
       }
     },
     "yaml-v0_6_2": {
@@ -1042,13 +1189,20 @@
         "src-yaml-v0_6_2": "src-yaml-v0_6_2"
       },
       "locked": {
-        "narHash": "sha256-67YQLXDOpvh/Ef9miLXJHJQa15GgDjvsOXrzbaZ2Hlk=",
-        "path": "./v0_6_2",
-        "type": "path"
+        "dir": "v0_6_2",
+        "lastModified": 1647111661,
+        "narHash": "sha256-6soQXO5uv5Cm2hoilgc7PrryrRalkg0Uv/ELBgAaM50=",
+        "owner": "nim-nix-pkgs",
+        "repo": "yaml",
+        "rev": "58dfd8afa8b417bd45ad0d5bced3f365e09fe425",
+        "type": "github"
       },
       "original": {
-        "path": "./v0_6_2",
-        "type": "path"
+        "dir": "v0_6_2",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "yaml",
+        "type": "github"
       }
     },
     "yaml-v0_6_3": {
@@ -1064,13 +1218,20 @@
         "src-yaml-v0_6_3": "src-yaml-v0_6_3"
       },
       "locked": {
-        "narHash": "sha256-fM1uB61EEq3pN4ect5/5ovNYnbkgvQln4JxLey+IXqo=",
-        "path": "./v0_6_3",
-        "type": "path"
+        "dir": "v0_6_3",
+        "lastModified": 1647111661,
+        "narHash": "sha256-6soQXO5uv5Cm2hoilgc7PrryrRalkg0Uv/ELBgAaM50=",
+        "owner": "nim-nix-pkgs",
+        "repo": "yaml",
+        "rev": "58dfd8afa8b417bd45ad0d5bced3f365e09fe425",
+        "type": "github"
       },
       "original": {
-        "path": "./v0_6_3",
-        "type": "path"
+        "dir": "v0_6_3",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "yaml",
+        "type": "github"
       }
     },
     "yaml-v0_7_0": {
@@ -1086,13 +1247,20 @@
         "src-yaml-v0_7_0": "src-yaml-v0_7_0"
       },
       "locked": {
-        "narHash": "sha256-w7JrH7ScXvwhKicOCXL1sEl2k1hpkHM1/buos9urYrQ=",
-        "path": "./v0_7_0",
-        "type": "path"
+        "dir": "v0_7_0",
+        "lastModified": 1647111661,
+        "narHash": "sha256-6soQXO5uv5Cm2hoilgc7PrryrRalkg0Uv/ELBgAaM50=",
+        "owner": "nim-nix-pkgs",
+        "repo": "yaml",
+        "rev": "58dfd8afa8b417bd45ad0d5bced3f365e09fe425",
+        "type": "github"
       },
       "original": {
-        "path": "./v0_7_0",
-        "type": "path"
+        "dir": "v0_7_0",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "yaml",
+        "type": "github"
       }
     },
     "yaml-v0_8_0": {
@@ -1108,13 +1276,20 @@
         "src-yaml-v0_8_0": "src-yaml-v0_8_0"
       },
       "locked": {
-        "narHash": "sha256-eBXqTdTDP5vEY62o8SQUGJMbRHOJbOEhyMiYD+JzHig=",
-        "path": "./v0_8_0",
-        "type": "path"
+        "dir": "v0_8_0",
+        "lastModified": 1647111661,
+        "narHash": "sha256-6soQXO5uv5Cm2hoilgc7PrryrRalkg0Uv/ELBgAaM50=",
+        "owner": "nim-nix-pkgs",
+        "repo": "yaml",
+        "rev": "58dfd8afa8b417bd45ad0d5bced3f365e09fe425",
+        "type": "github"
       },
       "original": {
-        "path": "./v0_8_0",
-        "type": "path"
+        "dir": "v0_8_0",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "yaml",
+        "type": "github"
       }
     },
     "yaml-v0_9_0": {
@@ -1130,13 +1305,20 @@
         "src-yaml-v0_9_0": "src-yaml-v0_9_0"
       },
       "locked": {
-        "narHash": "sha256-WHuQl44fv00fcxgJ+AGxCyCiwgm97xBml5XwvSVFoDY=",
-        "path": "./v0_9_0",
-        "type": "path"
+        "dir": "v0_9_0",
+        "lastModified": 1647111661,
+        "narHash": "sha256-6soQXO5uv5Cm2hoilgc7PrryrRalkg0Uv/ELBgAaM50=",
+        "owner": "nim-nix-pkgs",
+        "repo": "yaml",
+        "rev": "58dfd8afa8b417bd45ad0d5bced3f365e09fe425",
+        "type": "github"
       },
       "original": {
-        "path": "./v0_9_0",
-        "type": "path"
+        "dir": "v0_9_0",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "yaml",
+        "type": "github"
       }
     },
     "yaml-v0_9_1": {
@@ -1152,13 +1334,20 @@
         "src-yaml-v0_9_1": "src-yaml-v0_9_1"
       },
       "locked": {
-        "narHash": "sha256-I5+chTyQbUz91S+k0z+CDUtBFS/KtN/iSarm9QEH9jY=",
-        "path": "./v0_9_1",
-        "type": "path"
+        "dir": "v0_9_1",
+        "lastModified": 1647111661,
+        "narHash": "sha256-6soQXO5uv5Cm2hoilgc7PrryrRalkg0Uv/ELBgAaM50=",
+        "owner": "nim-nix-pkgs",
+        "repo": "yaml",
+        "rev": "58dfd8afa8b417bd45ad0d5bced3f365e09fe425",
+        "type": "github"
       },
       "original": {
-        "path": "./v0_9_1",
-        "type": "path"
+        "dir": "v0_9_1",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "yaml",
+        "type": "github"
       }
     }
   },
