@@ -11,7 +11,6 @@
   inputs.src-grim-master.ref   = "refs/heads/master";
   inputs.src-grim-master.owner = "ebran";
   inputs.src-grim-master.repo  = "grim";
-  inputs.src-grim-master.dir   = "";
   inputs.src-grim-master.type  = "github";
   
   inputs."yaml".owner = "nim-nix-pkgs";

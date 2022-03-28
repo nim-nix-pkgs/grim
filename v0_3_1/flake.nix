@@ -11,7 +11,6 @@
   inputs.src-grim-v0_3_1.ref   = "refs/tags/v0.3.1";
   inputs.src-grim-v0_3_1.owner = "ebran";
   inputs.src-grim-v0_3_1.repo  = "grim";
-  inputs.src-grim-v0_3_1.dir   = "";
   inputs.src-grim-v0_3_1.type  = "github";
   
   inputs."yaml".owner = "nim-nix-pkgs";
