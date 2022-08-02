@@ -37,24 +37,24 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-grim-master": "src-grim-master",
+        "src-grim-devel": "src-grim-devel",
         "yaml": "yaml",
         "zero_functional": "zero_functional"
       }
     },
-    "src-grim-master": {
+    "src-grim-devel": {
       "flake": false,
       "locked": {
-        "lastModified": 1609704102,
-        "narHash": "sha256-fFVAenIFc1t6LBcyi2u+48vs3h8Nyug5c8JJYwADG9c=",
+        "lastModified": 1609518330,
+        "narHash": "sha256-lN/JosLts/Cmb7Y+iguuV0eIZRKvHca5eOw5JlAKVRs=",
         "owner": "ebran",
         "repo": "grim",
-        "rev": "3c496c953ea5a749a6ce3545f208a1acce80383d",
+        "rev": "6871d70bc550b7e461dc10ad34de6494bf9e0757",
         "type": "github"
       },
       "original": {
         "owner": "ebran",
-        "ref": "refs/heads/master",
+        "ref": "refs/heads/devel",
         "repo": "grim",
         "type": "github"
       }
